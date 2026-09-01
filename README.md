@@ -64,7 +64,7 @@ Clinical Status Distribution (donut chart) — Discharged / In-Patient Care / Re
 Staff Overtime Hours by Year (bar chart) — 2023–2026 trend
 🔍 Key Insights
 Profitability is healthy but cost-heavy: NovaHealth converts revenue to profit at a ~32% margin, with operational cost tracking closely alongside revenue growth year over year — 2025 was the network's strongest year on both fronts ($8.18M revenue vs. $7.42M peak overtime hours).
-August is a clear operational dip: Appointments fell to their lowest point of the year (135, vs. a ~215 monthly average) and revenue dropped to $1.24M — well below every other month suggesting a seasonal staffing or capacity gap worth investigating.
+August is a clear operational dip: Appointments fell to their lowest point of the year (135, vs. a 215 monthly average) and revenue dropped to $1.24M — well below every other month suggesting a seasonal staffing or capacity gap worth investigating.
 ICU and Surgery are the highest-value departments per case: despite moderate appointment volumes (341 and 298 respectively), ICU and Surgery generate the highest revenue per appointment (~$16.4K and ~$17.0K), making them the network's most resource-intensive and highest-yield service lines.
 Pediatrics is high-volume but low-yield: 301 appointments generated only ~$1.7K average revenue per case — the lowest of any department — reflecting lower-acuity, lower-cost care.
 17% of patients are being readmitted: against 54.7% successfully discharged and 28.3% still in in-patient care, the readmission rate is a meaningful clinical quality signal for the Clinical Management team to monitor.

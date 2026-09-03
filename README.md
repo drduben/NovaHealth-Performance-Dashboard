@@ -1,4 +1,4 @@
-[NovaHealth Healthcare Performance Dashboard.png]
+[NovaHealth_Healthcare_Performance_Dashboard.png]
 📌 Project Overview
 	
 Client	NovaHealth Medical Network — a regional healthcare provider founded in 2014, operating hospitals and outpatient clinics across six U.S. states with ~1,400 employees
@@ -96,3 +96,4 @@ Novahealth_Medical_Network_Dataset_Class_3.xlsx — full workbook (raw data, cle
 README.md — this write-up
 
 Case study based on the "Data Analytics for Healthcare Management" program by 10Alytics. #HealthTechAnalytics #Decisionmaking
+Add dashboard screenshot
